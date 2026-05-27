@@ -3,7 +3,7 @@
 #--------------------------------------------------
 # Facultad de Ingenieria, UNAM
 # Materia: Fundamentos de Sistemas Embebidos
-# Autor: Jesús Vázquez Romero
+# Autor: Ferreira Rojas Mauricio
 # Programa: instalador de herramientas para Centro Multimedia
 # License: MIT
 #--------------------------------------------------
